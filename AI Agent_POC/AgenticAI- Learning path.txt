@@ -1,1 +1,44 @@
 https://www.youtube.com/watch?v=74SnvbQYgx8
+
+
+5 GitHub Repositories that will give you superpowers as an AI Engineer!
+
+1. Hands on Large Language Models
+
+This repository contains the complete code examples from the book Hands-On Large Language Models.
+
+It includes notebook examples that cover everything from the introduction to language models to fine-tuning them.
+
+👉 Check this out: https://lnkd.in/gpvPemeG
+
+2. GenAI Agents
+
+This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. 
+
+It serves as a comprehensive guide for building intelligent, interactive AI systems.
+
+👉 Check this out: https://lnkd.in/gaiZgzpA
+
+3. Made with ML
+
+Learn how to design, develop, deploy and iterate on production-grade ML applications.
+
+👉 Check this out: https://lnkd.in/gn2RhT_m
+
+4. Prompt Engineering Guide
+
+The repo contains all the Guides, papers, lecture, notebooks and resources to learn and master prompt engineering.
+
+👉 Check this out: https://lnkd.in/gDt3Sknr
+
+5. AI Agents for Begineers
+
+Beginner friendly course on AI Agents
+
+This Free 11-lesson course will teach you everything you need to get started with building AI agents.
+
+👉 Check this out: https://lnkd.in/gVm5gmv7
+
+If there’s any repo you think should be in the list, drop them in the comments!
+
+If you're interested in ML, LLMs, RAG, and AI Agents and want to receive Apps and tutorials every week, subscribe to AI Engineering (for free): https://lnkd.in/d9REmcqK
